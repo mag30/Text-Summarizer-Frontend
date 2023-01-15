@@ -18,7 +18,7 @@
 - https://nodejs.org/en/download/
 - https://cli.vuejs.org
 
-Скланировать данный репазиторий
+Склонировать данный репазиторий
 
 ```sh
 git clone https://github.com/mag30/Text-Summarizer-Frontend.git
